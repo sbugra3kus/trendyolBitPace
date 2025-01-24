@@ -83,7 +83,7 @@ element.click();
 ## Project Structure
 
 ```
-trendyolBitPace/
+trendyolTestCase/
 ├── specs
 │   ├── ... (Gauge specifications for tests)
 ├── src/
