@@ -1,10 +1,10 @@
-Trendyol BitPace Project
+**Trendyol BitPace Project**
 
-Overview
+**Overview**
 
 This project is a Selenium-based Java automation framework designed to interact with the Trendyol website and perform various operations such as element interaction, validations, and navigation. The framework is structured to ensure maintainability, scalability, and ease of use for testing or automating Trendyol functionalities.
 
-Features
+**Features**
 
 Automated navigation and interaction with Trendyol.
 
@@ -18,9 +18,9 @@ Assertion and validation mechanisms.
 
 Logging for better traceability and debugging.
 
-Installation
+**Installation**
 
-Prerequisites
+**Prerequisites**
 
 Java Development Kit (JDK) 8 or higher.
 
