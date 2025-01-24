@@ -1,0 +1,31 @@
+24-01-2025 12:41:13.681 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+24-01-2025 12:41:13.683 [Gauge] [INFO] Initializing specs cache with 1 specs
+24-01-2025 12:41:13.683 [Gauge] [DEBUG] Adding specs from C:\Users\bugra\OneDrive\Desktop\trendyolTestCase\specs\example.spec
+24-01-2025 12:41:13.683 [Gauge] [INFO] Initializing steps cache with 1 steps
+24-01-2025 12:41:13.683 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59018
+24-01-2025 12:41:13.684 [Gauge] [DEBUG] Watching directory: C:\Users\bugra\OneDrive\Desktop\trendyolTestCase\specs
+24-01-2025 12:41:13.684 [Gauge] [DEBUG] Found 1 files
+24-01-2025 12:41:18.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Main Page Control"}
+24-01-2025 12:41:18.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Main Page Control" parameterizedStepValue:"Main Page Control"}}
+24-01-2025 12:41:18.960 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama Butonuna basılıyor"}
+24-01-2025 12:41:18.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama Butonuna basılıyor" parameterizedStepValue:"Arama Butonuna basılıyor"}}
+24-01-2025 12:41:18.960 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"ZoomOut"}
+24-01-2025 12:41:18.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"ZoomOut" parameterizedStepValue:"ZoomOut"}}
+24-01-2025 12:41:18.961 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Kablosuz Kulaklık Araması"}
+24-01-2025 12:41:18.961 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Kablosuz Kulaklık Araması" parameterizedStepValue:"Kablosuz Kulaklık Araması"}}
+24-01-2025 12:41:18.962 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama Sonuçları Kontrol ediliyor"}
+24-01-2025 12:41:18.962 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama Sonuçları Kontrol ediliyor" parameterizedStepValue:"Arama Sonuçları Kontrol ediliyor"}}
+24-01-2025 12:41:18.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama Sonuçları Kontrol Ediliyor"}
+24-01-2025 12:41:18.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama Sonuçları Kontrol Ediliyor" parameterizedStepValue:"Arama Sonuçları Kontrol Ediliyor"}}
+24-01-2025 12:41:18.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Rastgele Ürün Seçimi"}
+24-01-2025 12:41:18.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Ürün Seçimi" parameterizedStepValue:"Rastgele Ürün Seçimi"}}
+24-01-2025 12:41:18.965 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepete Rastgele Ürün Ekleniyor"}
+24-01-2025 12:41:18.965 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Rastgele Ürün Ekleniyor" parameterizedStepValue:"Sepete Rastgele Ürün Ekleniyor"}}
+24-01-2025 12:41:18.965 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepete Ürün Seçimi"}
+24-01-2025 12:41:18.965 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepete Ürün Seçimi" parameterizedStepValue:"Sepete Ürün Seçimi"}}
+24-01-2025 12:41:18.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepet Açılıyor"}
+24-01-2025 12:41:18.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepet Açılıyor" parameterizedStepValue:"Sepet Açılıyor"}}
+24-01-2025 12:41:18.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Arama Butonuna basılıyor"}
+24-01-2025 12:41:18.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Arama Butonuna basılıyor" parameterizedStepValue:"* Arama Butonuna basılıyor"}}
+24-01-2025 12:41:18.967 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ürün Silme"}
+24-01-2025 12:41:18.967 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ürün Silme" parameterizedStepValue:"Ürün Silme"}}

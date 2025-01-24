@@ -1,0 +1,64 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1519milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1519"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 56599"}
+{"logLevel":"info","message":"Listening on port:56599"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.zoomOut' and 'test.StepImplementation.zoomOut'"}
+{"logLevel":"debug","message":"Found ZoomOut in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.wirelessHeadphone' and 'test.StepImplementation.wirelessHeadphone'"}
+{"logLevel":"debug","message":"Found Kablosuz Kulaklýk Aramasý in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.addToCart' and 'test.StepImplementation.addToCart'"}
+{"logLevel":"debug","message":"Found Sepete Ürün Seçimi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.checkXPathArrayValues' and 'test.StepImplementation.checkXPathArrayValues'"}
+{"logLevel":"debug","message":"Found Arama Sonuçlarý Kontrol ediliyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.testRandomProduct' and 'test.StepImplementation.testRandomProduct'"}
+{"logLevel":"debug","message":"Found Rastgele Ürün Seçimi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.waitForSecond' and 'test.StepImplementation.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.searchButton' and 'test.StepImplementation.searchButton'"}
+{"logLevel":"debug","message":"Found Arama Butonuna basýlýyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.resultCheck' and 'test.StepImplementation.resultCheck'"}
+{"logLevel":"debug","message":"Found Arama Sonuçlarý Kontrol Ediliyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.assertMainpage' and 'test.StepImplementation.assertMainpage'"}
+{"logLevel":"debug","message":"Found Main Page Control in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tRastgele Ürün Seçimi : public void testRandomProduct() throws InterruptedException"}
+{"logLevel":"debug","message":"\tArama Butonuna basýlýyor : public void searchButton()"}
+{"logLevel":"debug","message":"\tZoomOut : public void zoomOut()"}
+{"logLevel":"debug","message":"\tArama Sonuçlarý Kontrol Ediliyor : public void resultCheck()"}
+{"logLevel":"debug","message":"\tKablosuz Kulaklýk Aramasý : public void wirelessHeadphone()"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitForSecond(Integer x) throws InterruptedException"}
+{"logLevel":"debug","message":"\tMain Page Control : public void assertMainpage()"}
+{"logLevel":"debug","message":"\tArama Sonuçlarý Kontrol ediliyor : public void checkXPathArrayValues()"}
+{"logLevel":"debug","message":"\tSepete Ürün Seçimi : public void addToCart() throws InterruptedException"}
+Starting ChromeDriver 130.0.6723.58 (3a50e012e4c9b8a410a4e2b12bf577e69ee8f755-refs/branch-heads/6723@{#1353}) on port 52704
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 52704.
+[1737708759.470][WARNING]: This version of ChromeDriver has not been tested with Chrome version 131.
+Oca 24, 2025 11:52:39 ÖÖ org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Main Page Control' using 'class test.StepImplementation.assertMainpage"}
+{"logLevel":"debug","message":"Executing 'Arama Butonuna basýlýyor' using 'class test.StepImplementation.searchButton"}
+{"logLevel":"debug","message":"Executing 'Kablosuz Kulaklýk Aramasý' using 'class test.StepImplementation.wirelessHeadphone"}
+{"logLevel":"debug","message":"Executing 'Rastgele Ürün Seçimi' using 'class test.StepImplementation.testRandomProduct"}
+Chosen Product: HIZLI TESLIMAT
+2
+En Çok Ziyaret Edilen 10. Ürün
+Qcy HT08 MeloBuds Pro Hi-Res
+LDAC Adaptif ANC 6 mikrofon Bluetooth 5.3 Kablosuz Kulaklýk
+Son 3 günde 100+ ürün satýldý!
+4.3
+(16)
+1.499 TL
+Sepete Ekle
+https://www.trendyol.com/sr?q=Kablosuz%20Kulakl%C4%B1k&qt=Kablosuz%20Kulakl%C4%B1k&st=Kablosuz%20Kulakl%C4%B1k&os=1
+https://www.trendyol.com/qcy/ht08-melobuds-pro-hi-res-ldac-adaptif-anc-6-mikrofon-bluetooth-5-3-kablosuz-kulaklik-p-868593026?boutiqueId=638145&merchantId=968Yeni sekmeye geçildi!
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

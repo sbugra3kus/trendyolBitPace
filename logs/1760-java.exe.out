@@ -1,0 +1,346 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1243milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1243"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 58812"}
+{"logLevel":"info","message":"Listening on port:58812"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.zoomOut' and 'test.StepImplementation.zoomOut'"}
+{"logLevel":"debug","message":"Found ZoomOut in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.wirelessHeadphone' and 'test.StepImplementation.wirelessHeadphone'"}
+{"logLevel":"debug","message":"Found Kablosuz Kulaklýk Aramasý in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.checkXPathArrayValues' and 'test.StepImplementation.checkXPathArrayValues'"}
+{"logLevel":"debug","message":"Found Arama Sonuçlarý Kontrol ediliyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.testRandomProduct' and 'test.StepImplementation.testRandomProduct'"}
+{"logLevel":"debug","message":"Found Rastgele Ürün Seçimi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.testRandomurl' and 'test.StepImplementation.testRandomurl'"}
+{"logLevel":"debug","message":"Found Random article URL in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.checkXPathArrayValuesImage' and 'test.StepImplementation.checkXPathArrayValuesImage'"}
+{"logLevel":"debug","message":"Found Image Control in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.searchButton' and 'test.StepImplementation.searchButton'"}
+{"logLevel":"debug","message":"Found Arama Butonuna basýlýyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.resultCheck' and 'test.StepImplementation.resultCheck'"}
+{"logLevel":"debug","message":"Found Arama Sonuçlarý Kontrol Ediliyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.StepImplementation.assertMainpage' and 'test.StepImplementation.assertMainpage'"}
+{"logLevel":"debug","message":"Found Main Page Control in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tRastgele Ürün Seçimi : public void testRandomProduct() throws InterruptedException"}
+{"logLevel":"debug","message":"\tArama Butonuna basýlýyor : public void searchButton()"}
+{"logLevel":"debug","message":"\tImage Control : public void checkXPathArrayValuesImage()"}
+{"logLevel":"debug","message":"\tZoomOut : public void zoomOut()"}
+{"logLevel":"debug","message":"\tArama Sonuçlarý Kontrol Ediliyor : public void resultCheck()"}
+{"logLevel":"debug","message":"\tKablosuz Kulaklýk Aramasý : public void wirelessHeadphone()"}
+{"logLevel":"debug","message":"\tMain Page Control : public void assertMainpage()"}
+{"logLevel":"debug","message":"\tArama Sonuçlarý Kontrol ediliyor : public void checkXPathArrayValues()"}
+{"logLevel":"debug","message":"\tRandom article URL : public void testRandomurl() throws InterruptedException"}
+Starting ChromeDriver 130.0.6723.58 (3a50e012e4c9b8a410a4e2b12bf577e69ee8f755-refs/branch-heads/6723@{#1353}) on port 55267
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 55267.
+[1737659669.937][WARNING]: This version of ChromeDriver has not been tested with Chrome version 131.
+Oca 23, 2025 10:14:29 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Main Page Control' using 'class test.StepImplementation.assertMainpage"}
+{"logLevel":"debug","message":"Executing 'Arama Butonuna basýlýyor' using 'class test.StepImplementation.searchButton"}
+{"logLevel":"debug","message":"Executing 'Kablosuz Kulaklýk Aramasý' using 'class test.StepImplementation.wirelessHeadphone"}
+{"logLevel":"debug","message":"Executing 'Arama Sonuçlarý Kontrol ediliyor' using 'class test.StepImplementation.checkXPathArrayValues"}
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+En Çok Satan 2. Ürün
+Barbanti Mobile Beyaz 2.nesil
+Ios Android Uyumlu Kablosuz Bluetooth Kulaklýk Karýþýk Renk Kýlýf Hediyeli Plus
+Son 3 günde 1000+ ürün satýldý!
+4.2
+(11353)
+359,25 TL
+Kupon Fýrsatý
+Çok Al Az Öde
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+17
+En Çok Satan 1. Ürün
+MATEO P9 Plus Kablosuz 5.0
+Bluetooth Uyumlu Kablosuz Kulaklýk ios android uyumlu
+Son 3 günde 500+ ürün satýldý!
+3.9
+(8560)
+288,88 TL
+Kupon Fýrsatý
+Videolu Ürün
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+En Çok Satan 1. Ürün
+Barbanti Mobile Pro Ios
+Android Uyumlu Kablosuz Bluetooth Kulaklýk Karýþýk Renk Kýlýf Hediyeli
+Son 3 günde 1500+ ürün satýldý!
+4.1
+(12194)
+379,12 TL
+Videolu Ürün
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+3
+TrkTech Pro 5 Plus Premium A
+Kalite Bluetooth Sürüm 5.3 Hd Ses Performanslý Bluetooth Kulaklýk
+Son 3 günde 500+ ürün satýldý!
+3.8
+(16985)
+293,89 TL
+Birlikte Al Kazan
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+2
+En Çok Deðerlendirilen 1. Ürün
+Abbruch Pro 5 Ios Android
+Uyumlu Dokunmatik Bluetooth Kulaklýk 8d Stereo Hd Ses
+Son 3 günde 250+ ürün satýldý!
+3.7
+(37370)
+Son 7 Günün En Düþük Fiyatý!
+304,79 TL
+Kupon Fýrsatý
+Çok Al Az Öde
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+4
+En Çok Satan 3. Ürün
+Xiaomi Redmi Buds 6 Play -
+Siyah Kulakiçi Kulaklýk TWS
+Son 3 günde 500+ ürün satýldý!
+4.5
+(1291)
+Son 14 Günün En Düþük Fiyatý!
+489 TL
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+2
+SoundPEATS Free2 Classic -30
+Saat Çalma Süresine Sahip Bluetooth V5.1 Bluetooth Kulaklýk Uyumlu
+922 kiþi favoriledi!
+4.5
+(110)
+Son 14 Günün En Düþük Fiyatý!
+936,95 TL
+Çok Al Az Öde
+Birlikte Al Kazan
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+5
+En Çok Deðerlendirilen 1. Ürün
+Teknoloji Gelsin Bluetooth
+Kulaklýk Kablosuz Kulaküstü Iþýklý Katlanabilir Mikrofonlu Fm-aux-sd Siyah
+Son 3 günde 250+ ürün satýldý!
+4.2
+(16673)
+329 TL
+Birlikte Al Kazan
+Videolu Ürün
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+10
+Mmctech P9 Air Pro Max
+Kablosuz 5.0 Mikrofonlu Aux Kablolu Bluetooth Kulaklýk Android Ve Ios Uyumlu
+Son 3 günde 100+ ürün satýldý!
+4.0
+(1953)
+Son 7 Günün En Düþük Fiyatý!
+262,70 TL
+Kupon Fýrsatý
+Çok Al Az Öde
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+MÝWÝ Pro Tws Bluetooth
+Kulaklýk (2 Yýl Distribütör garantili)
+1655 kiþi favoriledi!
+3.7
+(82)
+Son 7 Günün En Düþük Fiyatý!
+195 TL
+Birlikte Al Kazan
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+SoundPEATS Capsule3 Pro
+Hi-res 3+3 Mikrofon Uyumlu 52 Saat Kullaným Süresi Anc-enc 5.3 Bluetooth Kulaklýk
+1409 kiþi favoriledi!
+4.4
+(81)
+1700 TL'ye 50 TL Ýndirim
+2.514,95 TL
+Birlikte Al Kazan
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+En Çok Deðerlendirilen 2. Ürün
+Teknoloji Gelsin Bluetooth
+Kulaklýk Kulakiçi Powerbanklý Çift Mikrofonlu Dokunmatik Kablosuz Earbuds F9 Pro
+Son 3 günde 100+ ürün satýldý!
+3.9
+(32059)
+299 TL
+Birlikte Al Kazan
+Videolu Ürün
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+6
+RoyTeknoloji Bluetooth
+Kulaklýk I12 Ios Android Popup Baðlantýlý Dokunmatik
+Son 3 günde 100+ ürün satýldý!
+3.5
+(534)
+189 TL
+Birlikte Al Kazan
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+4
+En Çok Satan 5. Ürün
+Xiaomi Redmi Buds 6 Play -
+Mavi Kulakiçi Kulaklýk TWS
+Son 3 günde 250+ ürün satýldý!
+4.6
+(240)
+Son 30 Günün En Düþük Fiyatý!
+479 TL
+449 TL
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+Barbanti Mobile 3. Nesil
+Beyaz Ios Android Uyumlu Kablosuz Bluetooth Kulaklýk Yeni Nesil Karýþýk Renk Kýlýf Hediyeli
+Son 3 günde 100+ ürün satýldý!
+4.1
+(4421)
+372,63 TL
+Kupon Fýrsatý
+Çok Al Az Öde
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+Huawei Freebuds Se Bt
+Kulaklýk Beyaz
+Son 3 günde 250+ ürün satýldý!
+4.6
+(9496)
+Son 30 Günün En Düþük Fiyatý!
+896,89 TL
+869 TL
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+13
+En Çok Satan 3. Ürün
+ELROND Vilya Kedi Kulaðý
+Detaylý Bluetooth Kablosuz Kulaklýk Çocuk Oyuncu
+Son 3 günde 250+ ürün satýldý!
+4.3
+(4190)
+294 TL
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+Torima Inpods 12 Bluetooth
+Kablosuz Kulaklýk V5.0 Stereo Dokunmatik (android – Ios) Pembe
+37.5B kiþi favoriledi!
+4.0
+(3056)
+Son 14 Günün En Düþük Fiyatý!
+290 TL
+Videolu Ürün
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+TARÇIN TwinX Çift Kulaklýklý
+Blutooth Kulaklýk ANC Özellikli Kablosuz Kulaklýk
+4117 kiþi favoriledi!
+3.8
+(118)
+799 TL
+10 TL Kupon
+Çok Al Az Öde
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+4
+En Çok Ziyaret Edilen 1. Ürün
+JBL Tune T510bt Siyah
+Wireless Bluetooth Kulak Üstü Kulaklýk
+Son 3 günde 500+ ürün satýldý!
+4.7
+(8134)
+Son 30 Günün En Düþük Fiyatý!
+1.519 TL
+1.480 TL
+Yetkili Satýcý
+Birlikte Al Kazan
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+LENOVO Siyah Thinkplus Lp1
+Yeni Versiyon Kablosuz Bluetooth Kulaklýk
+Son 3 günde 100+ ürün satýldý!
+4.0
+(18707)
+Son 14 Günün En Düþük Fiyatý!
+377 TL
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+Favors Powerbankli Bluetooth
+Kulaklýk Þarj Göstergeli Kulak Ýçi Kablosuz Mikrofonlu Hi-Fi Kulaklýk M10
+Son 3 günde 100+ ürün satýldý!
+3.7
+(2477)
+Son 7 Günün En Düþük Fiyatý!
+284,90 TL
+Kupon Fýrsatý
+Çok Al Az Öde
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+KARGO BEDAVA
+SoundPEATS Capsule3 Pro
+Hi-res 3 3 Mikforon 52 Saat Kullaným Süresi Anc 5.3 Bluetooth Kulaklýk
+185 kiþi favoriledi!
+5.0
+(10)
+Son 14 Günün En Düþük Fiyatý!
+2.379,95 TL
+Çok Al Az Öde
+Birlikte Al Kazan
+Sepete Ekle
+Elements text Value: HIZLI TESLIMAT
+TrkTech Bluetooth Kulaklýk
+Kulakiçi 1200 Mah Powerbanklý Çift Mikrofonlu Dokunmatik Kablosuz Tws F9-5
+22.1B kiþi favoriledi!
+3.8
+(1799)
+194,46 TL
+Birlikte Al Kazan
+Videolu Ürün
+Sepete Ekle
+{"logLevel":"debug","message":"Executing 'Rastgele Ürün Seçimi' using 'class test.StepImplementation.testRandomProduct"}
+Chosen Product: HIZLI TESLIMAT
+KARGO BEDAVA
+17
+En Çok Satan 1. Ürün
+MATEO P9 Plus Kablosuz 5.0
+Bluetooth Uyumlu Kablosuz Kulaklýk ios android uyumlu
+Son 3 günde 500+ ürün satýldý!
+3.9
+(8560)
+288,88 TL
+Kupon Fýrsatý
+Videolu Ürün
+Sepete Ekle
+Title is not OK Kablosuz Kulaklýk Modelleri, Fiyatlarý - Trendyol
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
